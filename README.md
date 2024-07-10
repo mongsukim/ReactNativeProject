@@ -72,9 +72,14 @@ Node.js 설치, 코드에디터(VS code)
 
 잘 실행된다면 이런게 나온다. 
 
-오류상황 : Error: adb.exe: device offline
+오류상황 : Error: adb.exe: device offline 
+'adb'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는 배치 파일이 아닙니다.
 
 ![image](https://github.com/mongsukim/ReactNativeProject/assets/29091608/a392f7c2-2560-427d-92ea-c33ed0b5bec4)
+
+이런 경우, 아래에 해결 링크를 참고한다. 
+
+https://designerkhs.tistory.com/48
 
 
 
